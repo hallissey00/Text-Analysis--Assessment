@@ -1,4 +1,5 @@
-# Text-Analysis--Assessment
+# Text-Analysis--Assignment
+
  Mine non-structured (text) data using Python libraries.
  
   Overview
